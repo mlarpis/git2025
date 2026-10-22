@@ -1,0 +1,7 @@
+---
+title: "Story"
+format: html
+embed-resources: true
+---
+
+The once was...
